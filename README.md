@@ -1,3 +1,7 @@
+## Author
+
+**Syedain Iqbal Shigri**
+
 # TravelEase Admin Dashboard
 
 A modern, enterprise-grade admin panel for managing a full-stack travel and tourism booking platform. Built with React 19, Vite, and Tailwind CSS v4.
@@ -126,12 +130,6 @@ This project is configured for seamless deployment on [Vercel](https://vercel.co
 3. Deploy — Vercel auto-detects Vite and configures everything
 
 Every push to `master` triggers an automatic redeploy.
-
----
-
-## Author
-
-**Syedain Iqbal Shigri**
 
 ---
 
